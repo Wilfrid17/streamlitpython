@@ -1,1 +1,1 @@
-# streamlitpython
+🌐 Tradutor e Conversor de Texto para Voz Esta aplicação web desenvolvida com Streamlit permite traduzir textos para diferentes idiomas e convertê-los em arquivos de áudio. O usuário pode inserir texto em português, traduzi-lo para um dos idiomas disponíveis e gerar arquivos de áudio tanto do texto original quanto do texto traduzido.# streamlitpython
